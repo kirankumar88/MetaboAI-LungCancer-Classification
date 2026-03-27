@@ -1,0 +1,48 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual Environment
+venv/
+env/
+ENV/
+.venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Streamlit
+.streamlit/
+
+# Model files (optional – include if large)
+*.pkl
+*.joblib
+*.h5
+*.model
+
+# Data files
+data/
+*.csv
+*.xlsx
+*.tsv
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Build files
+dist/
+build/
+*.egg-info/
+
+# Docker
+*.tar
