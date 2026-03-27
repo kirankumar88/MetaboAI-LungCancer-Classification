@@ -89,7 +89,7 @@ The column names must match the training dataset metabolite names.
 ## How to Run the App Locally
 
 1. Clone the repository:
-git clone git clone https://github.com/yourusername/MetaboAI-LungCancer-Classification.git
+git clone git clone https://github.com/kirankumar88/MetaboAI-LungCancer-Classification.git
 
 2. Navigate to project folder:
 cd MetaboAI-LungCancer-Classification
@@ -103,11 +103,7 @@ streamlit run app.py
 
 ---
 
-## Deployment
-
-This application can be deployed using:
-- Streamlit Cloud
-- Docker
+ Docker
 - AWS / GCP / Azure
 
 ---
@@ -116,25 +112,10 @@ This application can be deployed using:
 
 ---
 
-## Deployment
+## Deployment link
 
-This application can be deployed using:
-- Streamlit Cloud
-- Docker
-- AWS / GCP / Azure
-
----
-
-## Workflow
-
----
-
-## Deployment
-
-This application can be deployed using:
-- Streamlit Cloud
-- Docker
-- AWS / GCP / Azure
+This application is deployed using:
+- Streamlit Cloud - https://metaboai-lungcancer-classification-5n327xz9pwnvtkpzkqn5eq.streamlit.app/
 
 ---
 
